@@ -1,0 +1,298 @@
+body
+{ font-family: 'Noto Sans KR', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #FDF3E4;
+   
+  }
+  
+
+div.header
+{
+  width: 100%;
+  height: 100px;
+  position:absolute;
+  margin-top: 0px;
+  z-index:1;
+}
+
+
+div.header-out
+{
+  width: 1920px;
+  height: 150px;
+  position: fixed;
+  background-color: #fff;
+  margin-top: 0;
+  z-index:1;
+}
+
+nav
+{ 
+  margin-top: 0;
+  margin-left: 272px;
+  margin-right: 272px;
+  padding: 0;
+  height: 100px;
+  position: fixed;
+  background-color: #fff;
+ 
+  
+}
+
+img.logo
+{ position: absolute;
+  width: 150px;
+  height: 80px;
+  margin-top: 30px;
+ 
+}
+
+ul{
+  display: block;
+    list-style-type: disc;
+  margin-left:700px;
+ 
+}
+
+a
+{
+  text-decoration-line: none;
+  color: inherit;
+}
+
+li 
+{
+  margin: 0;
+  display: block;
+  float: right; 
+  margin-top: 56px;
+ 
+}
+
+
+
+li.list1
+{
+  margin-left:20px;
+}
+
+div.set1
+{
+  margin-top: 0;
+  width: 100%;
+  height: 740px;
+  background-color: #FDF3E4;
+}
+
+div.section1
+{ margin-top: 200px;
+  width: 1379px;
+  height: 593px;
+  background-color: #FDF3E4;
+  position: relative;
+  margin-left: 281px;
+}
+
+
+div.intro
+{
+  position: relative;
+  width: 1379px;
+  height: 593px;
+}
+
+
+div.img1
+{ 
+  width: 0px;
+  height: 0px;
+  position: relative;
+}
+
+div.introtxt
+{
+  position: relative;
+  text-align:right;
+  margin-top: 50px;
+  margin-right: 200px;
+  padding: 100px;
+ 
+}
+
+div.인트로내용
+{
+  text-align: left;
+  margin-left: 550px;
+}
+
+div.제목2container
+{ margin-top: 10px;
+  margin-left: 600px;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 30px;
+  background-color: #F6C17B ;
+  width: 470px;
+  margin-bottom: 50px;
+  
+}
+
+div.제목2
+{ font-size: 26px;
+  text-align: center;
+  padding: 10px;
+}
+
+
+
+
+div.section2
+{
+  width: 1320px;
+  height: 1500px;
+  background-color: #fff;
+  margin-left: 200px;
+ 
+}
+
+
+div.plus
+{
+  background-color: #fff;
+  width:1320px;
+  height: 100px;
+}
+
+
+div.img2
+{ 
+  margin-top:20px;
+  margin-left: 70px;
+  
+}
+
+
+
+
+
+div.titlebox
+{
+  margin-top: 120px;
+  display: flex;
+}
+
+div.title1
+{ text-align: center;
+  box-sizing: border-box;
+  border-radius: 30px;
+  width: 200px;
+  height:50px;
+  padding: 10px;
+  background-color:#F9DAAF;
+  margin-left: 150px;
+}
+
+div.title2
+{text-align: center;
+  box-sizing: border-box;
+  background-color: #F9DAAF;
+  border-radius: 30px;
+  width: 200px;
+  height:50px;
+  padding: 10px;
+  margin-left: 200px;
+}
+
+div.title3
+{
+  text-align: center;
+  box-sizing: border-box;
+  background-color: #F9DAAF;
+  border-radius: 30px;
+  width: 200px;
+  height:50px;
+  padding: 10px;
+  margin-left: 200px;
+}
+
+div.innerbox
+{
+  display: flex;
+  padding: 40px;
+}
+
+div.inner1
+{  margin-left:50px;
+ 
+  padding:10px;
+ 
+
+}
+
+
+div.inner2
+{  margin-left:50px;
+
+  padding:10px;
+
+}
+
+div.inner3
+{  margin-left: 50px;
+ 
+  padding: 10px;
+  margin-right: 50px;
+
+}
+
+
+div.nextpage
+{
+  margin-top: 100px;
+  width: 100%;
+  display: flex;
+}
+
+div.nxtcontain
+{
+  position: relative;
+  display: flex;
+  margin-left: 500px;
+}
+
+div.nxttxt
+{
+  text-align: center;
+  margin-top: 60px;
+  font-size: 20px;
+}
+
+
+div.img3
+{
+  
+  width: 500px;
+  height: 500px;
+  box-sizing: border-box;
+  position: relative;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+div.footer
+{ padding: 70px;
+  position: relative;
+  background-color: #459FB5;
+  width: 1320px;
+  width: 100%;
+  justify-content: center;
+  margin-top: 140px;
+  text-align: center;
+}
+
+p.footer
+{
+  margin-top: 200px;
+ 
+}
